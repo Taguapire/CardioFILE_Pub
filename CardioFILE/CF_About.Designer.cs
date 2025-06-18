@@ -44,7 +44,7 @@
             this.CF_About_lbl_Derechos.Name = "CF_About_lbl_Derechos";
             this.CF_About_lbl_Derechos.Size = new System.Drawing.Size(338, 13);
             this.CF_About_lbl_Derechos.TabIndex = 0;
-            this.CF_About_lbl_Derechos.Text = "CardioFILE  (c) por LUIS VASQUEZ/PENTALPHA E.I.R.L. 1987-2021";
+            this.CF_About_lbl_Derechos.Text = "CardioFILE  (c) por LUIS VASQUEZ/PENTALPHA E.I.R.L. 1987-2025";
             // 
             // CF_About_lbl_NewMail_Aviso
             // 

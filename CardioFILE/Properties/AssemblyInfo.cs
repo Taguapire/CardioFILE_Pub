@@ -9,9 +9,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("CardioFILE")]
 [assembly: AssemblyDescription("Programa para el control de historias clinicás en la especialidad de Cardiología.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("PENTALPHA E.I.R.L.")]
+[assembly: AssemblyCompany("LUIS VASQUEZ CONSULTORES E.I.R.L.")]
 [assembly: AssemblyProduct("CardioFILE")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCopyright("Copyright ©  1990-2025")]
 [assembly: AssemblyTrademark("Luis Vasquez Consultores E.I.R.L.")]
 [assembly: AssemblyCulture("")]
 
