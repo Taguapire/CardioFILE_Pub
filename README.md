@@ -24,7 +24,7 @@ Este proyecto está distribuido bajo la **Licencia GNU GPL v3**, lo que permite 
 Si deseas aportar mejoras, ideas o reportar problemas, puedes hacerlo a través de GitHub.
 
 ## 📧 Contacto
-Si tienes dudas o sugerencias, puedes contactar a su creador, **Luis Vásquez**.
+Si tienes dudas o sugerencias, puedes contactar a su creador, **Luis Vásquez**. ljvasquezr@outlook.com - luis.mnemonic@gmail.com
 
 ---
 
