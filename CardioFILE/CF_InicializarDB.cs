@@ -1,6 +1,6 @@
 ﻿using System.Data.SQLite;
 
-namespace CardioFILE
+namespace CardioFILE_Pub
 {
     class CF_InicializarDB
     {

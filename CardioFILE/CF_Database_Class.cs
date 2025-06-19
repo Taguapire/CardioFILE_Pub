@@ -3,7 +3,7 @@ using System.Windows.Forms;
 using System.Data.SQLite;
 
 // Procesar Acceso a la Base de Datos
-namespace CardioFILE
+namespace CardioFILE_Pub
 {
     public class CF_Database_Class
     {

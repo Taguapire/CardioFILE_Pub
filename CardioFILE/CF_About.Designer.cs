@@ -1,4 +1,4 @@
-﻿namespace CardioFILE
+﻿namespace CardioFILE_Pub
 {
     partial class CF_About
     {

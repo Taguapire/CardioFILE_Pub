@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CardioFILE
+namespace CardioFILE_Pub
 {
     public class CF_User_Type
     {

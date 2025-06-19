@@ -3,7 +3,7 @@ using System.Windows.Forms;
 using System.Data.SQLite;
 
 
-namespace CardioFILE
+namespace CardioFILE_Pub
 {
 
     public partial class CF_Dialog_Other_Exams_Browser : Form

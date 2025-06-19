@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Windows.Forms;
 using System.Data.SQLite;
 
-namespace CardioFILE
+namespace CardioFILE_Pub
 {
     public partial class CardioFILEPrincipal : Form
     {

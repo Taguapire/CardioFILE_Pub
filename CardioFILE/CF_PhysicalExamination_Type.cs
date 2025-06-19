@@ -5,7 +5,7 @@
 // Manejo de Valores de Memoria de Basic Data
 //****************************************************************************************
 //****************************************************************************************
-namespace CardioFILE
+namespace CardioFILE_Pub
 {
     public class CF_PhysicalExamination_Type
     {

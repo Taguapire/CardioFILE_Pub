@@ -17,7 +17,7 @@ using System.Security.Cryptography;
 //plainText = b.Decrypt_CBC(cipherText);
 //MessageBox.Show(plainText);
 
-namespace CardioFILE
+namespace CardioFILE_Pub
 {
     class CardioFILESecurity
     {

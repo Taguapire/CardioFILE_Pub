@@ -36,8 +36,8 @@
     <ProjectGuid>{76BA1D7C-0A19-41AA-825F-A137AC893578}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CardioFILE</RootNamespace>
-    <AssemblyName>CardioFILE</AssemblyName>
+    <RootNamespace>CardioFILE_Pub</RootNamespace>
+    <AssemblyName>CardioFILE_Pub</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>false</IsWebBootstrapper>
@@ -68,13 +68,13 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CardioFILE.Program</StartupObject>
+    <StartupObject>CardioFILE_Pub.Program</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>A7F0D22C48A2EA4E0C72C9F4CA61CBA1818C7AF9</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>4098F56E2654AA56CAD89FFA1A3FCFD2C37BC55D</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestKeyFile>CardioFILE_TemporaryKey.pfx</ManifestKeyFile>
@@ -98,7 +98,7 @@
     <ErrorReport>prompt</ErrorReport>
     <CodeAnalysisRuleSet>CppCoreCheckRules.ruleset</CodeAnalysisRuleSet>
     <RunCodeAnalysis>false</RunCodeAnalysis>
-    <DocumentationFile>bin\x64\Debug\CardioFILE.xml</DocumentationFile>
+    <DocumentationFile>bin\x64\Debug\CardioFILE_Pub.xml</DocumentationFile>
     <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
     <CodeAnalysisIgnoreGeneratedCode>false</CodeAnalysisIgnoreGeneratedCode>
   </PropertyGroup>
@@ -117,7 +117,8 @@
     <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>CardioFILE_TemporaryKey.pfx</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <DelaySign>false</DelaySign>
@@ -307,7 +308,6 @@
       <Link>.editorconfig</Link>
     </None>
     <None Include="CardioFILE.ruleset" />
-    <None Include="CardioFILE_TemporaryKey.pfx" />
     <None Include="packages.config" />
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">

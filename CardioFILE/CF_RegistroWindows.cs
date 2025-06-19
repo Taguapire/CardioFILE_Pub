@@ -1,6 +1,6 @@
 ﻿using Microsoft.Win32;
 
-namespace CardioFILE
+namespace CardioFILE_Pub
 {
     class CF_RegistroWindows
     {

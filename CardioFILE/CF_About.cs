@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CardioFILE
+namespace CardioFILE_Pub
 {
     public partial class CF_About : Form
     {

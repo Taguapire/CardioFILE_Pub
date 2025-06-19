@@ -1,4 +1,4 @@
-﻿namespace CardioFILE
+﻿namespace CardioFILE_Pub
 {
     public class RootCardioFILE
     {

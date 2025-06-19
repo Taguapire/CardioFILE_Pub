@@ -1,4 +1,4 @@
-﻿namespace CardioFILE
+﻿namespace CardioFILE_Pub
 {
     public class CF_Autor
     {
@@ -26,7 +26,7 @@
             Empresa2 = "Luis Vásquez Consultores EIRL";
             Inicio = "1987";
             Final = "2021";
-            Email1 = "ljvasquez@protonmail.com";
+            Email1 = "ljvasquezr@outlook.com";
             Email2 = "sqlbiker@yahoo.com";
             SoftwareFull = Software + " " + Version + "." + Release;
         }

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace CardioFILE
+namespace CardioFILE_Pub
 {
     static class Program
     {

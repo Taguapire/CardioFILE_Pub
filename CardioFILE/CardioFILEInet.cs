@@ -4,7 +4,7 @@ using System.IO;
 using System.Net;
 using Newtonsoft.Json;
 
-namespace CardioFILE
+namespace CardioFILE_Pub
 {
     class CardioFILEInet
     {

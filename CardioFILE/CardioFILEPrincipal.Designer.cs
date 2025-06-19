@@ -1,4 +1,4 @@
-﻿namespace CardioFILE
+﻿namespace CardioFILE_Pub
 {
     partial class CardioFILEPrincipal
     {
@@ -307,7 +307,7 @@
             // 
             // CF_Btn_Basic_Data_New
             // 
-            this.CF_Btn_Basic_Data_New.Image = global::CardioFILE.Properties.Resources.Nuevo;
+            this.CF_Btn_Basic_Data_New.Image = global::CardioFILE_Pub.Properties.Resources.Nuevo;
             this.CF_Btn_Basic_Data_New.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.CF_Btn_Basic_Data_New.Name = "CF_Btn_Basic_Data_New";
             this.CF_Btn_Basic_Data_New.Size = new System.Drawing.Size(62, 22);
@@ -316,7 +316,7 @@
             // 
             // CF_Btn_Basic_Data_Modify
             // 
-            this.CF_Btn_Basic_Data_Modify.Image = global::CardioFILE.Properties.Resources.Modificar1;
+            this.CF_Btn_Basic_Data_Modify.Image = global::CardioFILE_Pub.Properties.Resources.Modificar1;
             this.CF_Btn_Basic_Data_Modify.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.CF_Btn_Basic_Data_Modify.Name = "CF_Btn_Basic_Data_Modify";
             this.CF_Btn_Basic_Data_Modify.Size = new System.Drawing.Size(78, 22);
@@ -339,7 +339,7 @@
             // 
             // CF_Btn_Basic_Data_Print
             // 
-            this.CF_Btn_Basic_Data_Print.Image = global::CardioFILE.Properties.Resources.Imprimir;
+            this.CF_Btn_Basic_Data_Print.Image = global::CardioFILE_Pub.Properties.Resources.Imprimir;
             this.CF_Btn_Basic_Data_Print.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.CF_Btn_Basic_Data_Print.Name = "CF_Btn_Basic_Data_Print";
             this.CF_Btn_Basic_Data_Print.Size = new System.Drawing.Size(73, 22);
@@ -2422,7 +2422,7 @@
             // 
             this.CF_Btn_OthersExams_Print.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.CF_Btn_OthersExams_Print.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CF_Btn_OthersExams_Print.Image = global::CardioFILE.Properties.Resources.Imprimir;
+            this.CF_Btn_OthersExams_Print.Image = global::CardioFILE_Pub.Properties.Resources.Imprimir;
             this.CF_Btn_OthersExams_Print.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.CF_Btn_OthersExams_Print.Location = new System.Drawing.Point(545, 2);
             this.CF_Btn_OthersExams_Print.Name = "CF_Btn_OthersExams_Print";
@@ -2454,7 +2454,7 @@
             // 
             this.CF_Btn_OthersExams_Modify.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.CF_Btn_OthersExams_Modify.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CF_Btn_OthersExams_Modify.Image = global::CardioFILE.Properties.Resources.Modificar1;
+            this.CF_Btn_OthersExams_Modify.Image = global::CardioFILE_Pub.Properties.Resources.Modificar1;
             this.CF_Btn_OthersExams_Modify.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.CF_Btn_OthersExams_Modify.Location = new System.Drawing.Point(353, 2);
             this.CF_Btn_OthersExams_Modify.Name = "CF_Btn_OthersExams_Modify";
@@ -2470,7 +2470,7 @@
             // 
             this.CF_Btn_OthersExams_New.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.CF_Btn_OthersExams_New.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CF_Btn_OthersExams_New.Image = global::CardioFILE.Properties.Resources.Nuevo;
+            this.CF_Btn_OthersExams_New.Image = global::CardioFILE_Pub.Properties.Resources.Nuevo;
             this.CF_Btn_OthersExams_New.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.CF_Btn_OthersExams_New.Location = new System.Drawing.Point(256, 2);
             this.CF_Btn_OthersExams_New.Name = "CF_Btn_OthersExams_New";

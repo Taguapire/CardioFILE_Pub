@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("Programa para el control de historias clinicás en la especialidad de Cardiología.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("LUIS VASQUEZ CONSULTORES E.I.R.L.")]
-[assembly: AssemblyProduct("CardioFILE")]
+[assembly: AssemblyProduct("CardioFILE_Pub")]
 [assembly: AssemblyCopyright("Copyright ©  1990-2025")]
 [assembly: AssemblyTrademark("Luis Vasquez Consultores E.I.R.L.")]
 [assembly: AssemblyCulture("")]

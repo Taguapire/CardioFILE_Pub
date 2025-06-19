@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using Microsoft.Reporting.WinForms;
 
 
-namespace CardioFILE
+namespace CardioFILE_Pub
 {
     public partial class CF_Form_Report_Recipe : Form
     {
