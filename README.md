@@ -2,6 +2,8 @@
 
 **CardioFILE** es un programa diseñado para gestionar historias clínicas de pacientes, con especial enfoque en **cardiología** y **medicina interna**. Su propósito es proporcionar una herramienta eficiente y organizada para el registro, consulta y seguimiento de datos médicos clave.
 
+![Pantalla Principal](https://raw.githubusercontent.com/Taguapire/CardioFILE_Pub/master/Recursos/PantallaPrincipal.JPG)
+
 ## ✨ Características principales
 CardioFILE permite registrar y administrar información clínica detallada, incluyendo:
 - **Datos del paciente**: Información general, antecedentes y registros previos.
