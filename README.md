@@ -20,10 +20,19 @@ CardioFILE permite registrar y administrar información clínica detallada, incl
 - **Estudio de Dianosticos versus Tratamientos**: Permite realizar la evolución de los diagnosticos con los tratamientos.
   ![Estudio de Diagnósticos vs. Tratamientos](https://raw.githubusercontent.com/Taguapire/CardioFILE_Pub/master/Recursos/Estadisticas.JPG)
 
+## 📦 Requerimientos para compilar
+1. Microsoft Visual Studio Community 2022 (64-bit).
+2. .Net Framework 4.8.1
+3. Acceso al Nuget, ya que requerira librerias.
+4. Ejecutar Clean Solution y despues Build Solution
+5. Puedes usar publish para sacar un ejecutable de instalación
+6. Es probable que te pida fabricar un archivo pfx para firma digital local temporal
+
 ## 📦 Instalación y uso
 1. Descarga el programa desde el repositorio público.
-2. Sigue las instrucciones para la instalación en **Windows**.
-3. Accede al sistema y comienza a registrar historias clínicas.
+2. Sigue las instrucciones para la instalación y requerimientos para compilar en **Windows**.
+3. En caso de que vayas a instalarlo en otro PC, debes ejecutar el power shell con permiso de administrador
+4. Accede al sistema y comienza a registrar historias clínicas.
 
 ## 📝 Licencia
 Este proyecto está distribuido bajo la **Licencia GNU GPL v3**, lo que permite su uso y modificación respetando sus términos.
