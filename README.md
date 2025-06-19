@@ -8,6 +8,7 @@
 CardioFILE permite registrar y administrar información clínica detallada, incluyendo:
 - **Datos del paciente**: Información general, antecedentes y registros previos.
 - **Exámenes físicos**: Parámetros clínicos esenciales para el diagnóstico.
+  ![Examen Físico](https://raw.githubusercontent.com/Taguapire/CardioFILE_Pub/master/Recursos/ExamenFisico.JPG)
 - **Holters**: Seguimiento de actividad cardíaca mediante monitoreo prolongado.
 - **Pruebas de esfuerzo**: Evaluación del rendimiento cardiovascular bajo ejercicio.
 - **Citas y agendas**: Gestión de turnos médicos y planificación de consultas.
