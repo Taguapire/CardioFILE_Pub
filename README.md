@@ -13,6 +13,7 @@ CardioFILE permite registrar y administrar información clínica detallada, incl
 - **Pruebas de esfuerzo**: Evaluación del rendimiento cardiovascular bajo ejercicio.
   ![Prueba de Esfuerzo](https://raw.githubusercontent.com/Taguapire/CardioFILE_Pub/master/Recursos/PruebadeEsfuerzo.JPG)
 - **Citas y agendas**: Gestión de turnos médicos y planificación de consultas.
+  ![Citas y Agenda](https://raw.githubusercontent.com/Taguapire/CardioFILE_Pub/master/Recursos/ControldeConsultas.JPG)
 - **Diagnósticos**: Registro de hallazgos médicos y análisis de condiciones.
 - **Tratamientos**: Planificación y seguimiento de intervenciones terapéuticas.
   ![Diagnósticos y Tratamientos](https://raw.githubusercontent.com/Taguapire/CardioFILE_Pub/master/Recursos/DiagnosticoTratamientos.JPG)
