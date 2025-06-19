@@ -15,6 +15,9 @@ CardioFILE permite registrar y administrar información clínica detallada, incl
 - **Citas y agendas**: Gestión de turnos médicos y planificación de consultas.
 - **Diagnósticos**: Registro de hallazgos médicos y análisis de condiciones.
 - **Tratamientos**: Planificación y seguimiento de intervenciones terapéuticas.
+  ![Diagnósticos y Tratamientos](https://raw.githubusercontent.com/Taguapire/CardioFILE_Pub/master/Recursos/DiagnosticoTratamientos.JPG)
+- **Estudio de Dianosticos versus Tratamientos**: Permite realizar la evolución de los diagnosticos con los tratamientos.
+- 
 
 ## 📦 Instalación y uso
 1. Descarga el programa desde el repositorio público.
